@@ -9,6 +9,6 @@ public class HelloController {
 
     @GetMapping
     public String falaWendel() {
-        return "Falaaaaa aqui é o Wendel seu policia!!!";
+        return "Falaaaaa!!!";
     }
 }
